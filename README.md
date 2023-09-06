@@ -1,5 +1,7 @@
 # WeatherApp
-Android Mobile Application
+--- Android Mobile Application ---
+
+The application has both Turkish and English language options. It provides current weather information to users via api addresses. The related data is obtained by getting location permission or manuel searching. I continue to develop the application and add various features.
 
 ![loading_screen](https://github.com/nilhansuer/WeatherApp/assets/78359573/69299fe2-a3a9-4823-aaa6-08fd6931286a)
 
