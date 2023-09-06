@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather360</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="name_surname">nılhan suer</string>
+    <string name="name_surname_2">ümıt erkan</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="login">Login</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="password">Password</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="country">Country</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password_limitation">Password must be at least 6 characters!</string>
+    <string name="password_again">Enter your password again</string>
+    <string name="valid_password">Valid password!</string>
+    <string name="register">Register</string>
+    <string name="city">City</string>
+    <string name="weather_info">Get The Weather Info</string>
+    <string name="ok">OK</string>
+    <string name="type_location">Please type a location</string>
+    <string name="location">Location</string>
+    <string name="search">Search</string>
+    <string name="click_the_icon">CLICK HERE</string>
+    <string name="hello">Hello</string>
+</resources>

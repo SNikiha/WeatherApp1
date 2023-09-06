@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140586991693",
+    "project_id": "kafeinproject-e529c",
+    "storage_bucket": "kafeinproject-e529c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140586991693:android:1fad2eaf4ba7d637f95c04",
+        "android_client_info": {
+          "package_name": "com.nilhansuer.kafeinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140586991693-u1j1j108k2hkea8tnqm9bjqa8a32n0v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nilhansuer.kafeinproject",
+            "certificate_hash": "0043486c1995d300f9c6f372bc48b5131d0fe25b"
+          }
+        },
+        {
+          "client_id": "140586991693-srcrjlhmcti651o9oinb72k7t8dovafj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvF-1mHLIQcoFS7-g2exJhSUdvioaPWvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140586991693-srcrjlhmcti651o9oinb72k7t8dovafj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
